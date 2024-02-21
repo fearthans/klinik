@@ -6,6 +6,7 @@
     <title>Halaman Profile</title>
 </head>
 <body>
-    <h2>Halaman Profil</h2>
+    <h2>Halaman Profil </h2>
+    <a href="#">Contoh branch deni</a>
 </body>
 </html>
